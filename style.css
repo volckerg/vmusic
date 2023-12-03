@@ -1,0 +1,19 @@
+body { background-image: url(image/vecteezy_group-of-people-playing-musical-instruments-enjoying_24574094_920.jpg);
+background-position:center;
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 0;
+padding-bottom: 580px;
+}
+
+h1 { color: white;
+    text-align: center;
+    text-shadow: black;
+
+}
+
+footer {
+    text-decoration: none;
+    text-align: center;
+    color: blue;
+}
